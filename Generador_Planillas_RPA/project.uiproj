@@ -1,0 +1,6 @@
+{
+  "Name": "Generador_Planillas_RPA",
+  "ProjectType": "Process",
+  "Description": "Genera planillas de pago de las BRI GUA ",
+  "MainFile": "Main.xaml"
+}

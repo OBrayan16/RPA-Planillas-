@@ -1,0 +1,12 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "1c99ffc9-06f4-4a0a-8fa1-a71aa0fc5777",
+  "Projects": [
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "Generador_Planillas_RPA/project.uiproj",
+      "Id": "1e7df460-b0bd-4c52-8fa6-e5364745b6e6"
+    }
+  ]
+}

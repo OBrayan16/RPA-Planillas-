@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Generador_Planillas_RPA",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "1e7df460-b0bd-4c52-8fa6-e5364745b6e6",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "Generador_Planillas_RPA",
+      "description": null
+    },
+    "locks": [],
+    "key": "a19ca823-07de-45c9-9deb-e137099d40d4"
+  }
+}
